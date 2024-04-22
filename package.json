@@ -1,6 +1,6 @@
 {
   "name": "@anujchopra20/randomnumber",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "gives you a random number between 1 and 4000",
   "main": "index.js",
   "scripts": {
