@@ -15,7 +15,7 @@ npm install @anujchopra20/randomnumber
 
 Usage
 Importing getRandomNumber()
-You can import the getRandomNumber() function from the random-number library into your Node.js application as follows:
+You can import the getRandomNumber() function from the randomnumber library into your Node.js application as follows:
 
 import {getRandomNumber} from '@anujchopra/randomnumber'
 
