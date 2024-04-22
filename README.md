@@ -17,7 +17,7 @@ Usage
 Importing getRandomNumber()
 You can import the getRandomNumber() function from the randomnumber library into your Node.js application as follows:
 
-import {getRandomNumber} from '@anujchopra/randomnumber'
+import {getRandomNumber} from '@anujchopra20/randomnumber'
 
 
 
@@ -27,7 +27,7 @@ Once imported, you can use the getRandomNumber() function to generate a random n
 
 Example:
 
-import {getRandomNumber} from '@anujchopra/randomnumber';
+import {getRandomNumber} from '@anujchopra20/randomnumber';
 
 
 const number = getRandomNumber();
