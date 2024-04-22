@@ -6,10 +6,15 @@
  }
 
 
+ function greeting(){
+    console.log("Hello Everyone")
+ }
+
 
 
 
 
 module.exports = {
-    getRandomNumber
+    getRandomNumber,
+    greeting
 }
